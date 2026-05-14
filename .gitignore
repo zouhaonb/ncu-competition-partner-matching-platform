@@ -6,7 +6,6 @@
 
 # 依赖包目录
 /node_modules/
-frontend/node_modules/
 
 # IDE 配置
 .vscode/
